@@ -79,7 +79,7 @@ Akses ke Dataset Lengkap
 
 Dataset lengkap dan tanpa filter tersedia untuk tujuan penelitian yang sah dan terbatas bagi para peneliti, akademisi, dan mahasiswa yang berafiliasi dengan institusi yang diakui.
 
-Untuk meminta akses, silakan kirim email ke [alamat.email.anda@institusi.ac.id] dengan subjek "Permintaan Akses Dataset BSSN". Mohon sertakan informasi berikut dalam email Anda:
+Untuk meminta akses, silakan kirim email ke [dataset.query@poltekssn.ac.id] dengan subjek "Permintaan Akses Dataset BSSN". Mohon sertakan informasi berikut dalam email Anda:
 
     Nama lengkap dan afiliasi institusional Anda.
 
@@ -95,6 +95,3 @@ Dataset ini dilisensikan di bawah
 
 Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
-Kontak 📬
-
-Untuk pertanyaan lebih lanjut mengenai dataset ini, silakan hubungi [Nama Anda/Nama Lab] di [alamat.email.anda@institusi.ac.id].
